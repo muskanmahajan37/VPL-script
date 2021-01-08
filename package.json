@@ -1,0 +1,19 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "check-types": "^11.1.2",
+    "figlet": "^1.5.0",
+    "lodash": "^4.17.20",
+    "mocha": "^8.2.1",
+    "supertest": "^6.0.1"
+  }
+}
