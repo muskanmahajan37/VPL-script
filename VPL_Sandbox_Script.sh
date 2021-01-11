@@ -1,6 +1,4 @@
-npm install 
-mocha
-
+npm run test
 
 
 
